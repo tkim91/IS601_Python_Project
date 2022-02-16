@@ -2,7 +2,7 @@ version: "3.2"
 services:
   flask:
     build: ./app
-    image: kaw393939/flask:latest
+    image: tkim911/first_website:latest
     container_name: python
     restart: always
     environment:

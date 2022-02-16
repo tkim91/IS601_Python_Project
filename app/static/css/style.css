@@ -1,3 +1,12 @@
 body {
     font-family: Helvetica, "Helvetica Neue", sans-serif;
 }
+
+.content {
+    font-family: "Times New Roman", sans-serif;
+    color: green;
+}
+
+.makeBigger {
+    font-size: 300%;
+}
